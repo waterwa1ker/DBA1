@@ -1,6 +1,6 @@
 # DBA1
 
-[](./images/DBA1-logo.jpg)
+![a](images/DBA1-logo-3.jpg)
 
 ## Настройка рабочего места
 
